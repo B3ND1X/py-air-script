@@ -14,9 +14,9 @@ Open Terminal
 
 run commands: 
 
-git clone https://github.com/B3ND1X/air-script-py
+git clone https://github.com/B3ND1X/py-air-script
 
-cd air-script-py
+cd py-air-script
 
 sudo chmod -R 755 *
 
