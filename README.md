@@ -23,13 +23,14 @@ sudo chmod -R 755 *
 sudo ./install.py
 
 
-## HOW TO RUN
+## HOW TO RUN:
 
 Run command: 
 
 "sudo python3 pwn.py"
 
-### CHANGELOG
+
+### CHANGELOG:
 
 v 1.1.1
 * Added menu options 
