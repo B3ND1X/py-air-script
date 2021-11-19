@@ -28,3 +28,14 @@ sudo ./install.py
 Run command: 
 
 "sudo python3 pwn.py"
+
+### CHANGELOG
+
+v 1.1.1
+* Added menu options 
+
+v 1.1 
+* Bug Fixes
+
+v 1.0
+* Initial Release
